@@ -1,0 +1,3 @@
+Localhost = "sitio";
+Table 1= "libros" : 'id','imagen','datos','nombre';
+Table 2= "registro" : 'id_pk','name','password';
